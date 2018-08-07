@@ -1,0 +1,21 @@
+{
+  "name": "rumajiseed",
+  "version": "1.0.0",
+  "description": "rumaji seed book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kelabang",
+  "license": "ISC",
+  "keywords": [
+    "rumaji"
+  ],
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "knex": "^0.15.2",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "promise.series": "^0.2.0"
+  }
+}
